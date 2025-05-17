@@ -3,31 +3,8 @@
   "version": "0.0.0",
   "description": "Create a vector (i.e., a one-dimensional ndarray).",
   "license": "Apache-2.0",
-  "author": {
-    "name": "The Stdlib Authors",
-    "url": "https://github.com/stdlib-js/stdlib/graphs/contributors"
-  },
-  "contributors": [
-    {
-      "name": "The Stdlib Authors",
-      "url": "https://github.com/stdlib-js/stdlib/graphs/contributors"
-    }
-  ],
-  "main": "./lib",
-  "directories": {
-    "benchmark": "./benchmark",
-    "doc": "./docs",
-    "example": "./examples",
-    "lib": "./lib",
-    "test": "./test"
-  },
-  "types": "./docs/types",
-  "scripts": {
-    "test": "make test",
-    "test-cov": "make test-cov",
-    "examples": "make examples",
-    "benchmark": "make benchmark"
-  },
+  "type": "module",
+  "main": "./mod.js",
   "homepage": "https://stdlib.io",
   "repository": {
     "type": "git",
@@ -36,80 +13,6 @@
   "bugs": {
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
-  "dependencies": {
-    "@stdlib/array-base-copy": "^0.2.2",
-    "@stdlib/array-from-iterator": "^0.2.2",
-    "@stdlib/array-typed": "^0.3.0",
-    "@stdlib/assert-has-own-property": "^0.2.2",
-    "@stdlib/assert-is-arraybuffer": "^0.2.2",
-    "@stdlib/assert-is-boolean": "^0.2.2",
-    "@stdlib/assert-is-buffer": "^0.2.2",
-    "@stdlib/assert-is-collection": "^0.2.2",
-    "@stdlib/assert-is-iterable-like": "^0.2.2",
-    "@stdlib/assert-is-nonnegative-integer": "^0.2.2",
-    "@stdlib/assert-is-plain-object": "^0.2.2",
-    "@stdlib/buffer-from-array": "^0.2.2",
-    "@stdlib/buffer-from-arraybuffer": "^0.2.2",
-    "@stdlib/buffer-from-buffer": "^0.2.2",
-    "@stdlib/ndarray-base-assert-is-data-type": "^0.2.2",
-    "@stdlib/ndarray-base-assert-is-index-mode": "^0.2.2",
-    "@stdlib/ndarray-base-assert-is-order": "^0.2.2",
-    "@stdlib/ndarray-base-buffer": "^0.3.0",
-    "@stdlib/ndarray-base-bytes-per-element": "^0.2.2",
-    "@stdlib/ndarray-base-strides2offset": "^0.2.2",
-    "@stdlib/ndarray-ctor": "^0.2.2",
-    "@stdlib/ndarray-defaults": "^0.3.0",
-    "@stdlib/object-assign": "^0.2.2",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.2",
-    "@stdlib/symbol-iterator": "^0.2.2",
-    "@stdlib/types": "^0.4.3",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
-  },
-  "devDependencies": {
-    "@stdlib/array-buffer": "^0.2.2",
-    "@stdlib/array-cartesian-product": "^0.2.2",
-    "@stdlib/array-complex128": "^0.3.0",
-    "@stdlib/array-float32": "^0.2.2",
-    "@stdlib/array-float64": "^0.2.2",
-    "@stdlib/array-to-iterator": "^0.2.2",
-    "@stdlib/assert-is-function": "^0.2.2",
-    "@stdlib/assert-is-method": "^0.2.2",
-    "@stdlib/assert-is-ndarray-like": "^0.2.2",
-    "@stdlib/assert-is-ndarray-like-with-data-type": "github:stdlib-js/assert-is-ndarray-like-with-data-type#main",
-    "@stdlib/assert-is-same-array": "^0.2.2",
-    "@stdlib/assert-is-same-complex128array": "^0.2.2",
-    "@stdlib/assert-is-same-float32array": "^0.2.2",
-    "@stdlib/assert-is-same-float64array": "^0.2.2",
-    "@stdlib/blas-ext-sum": "github:stdlib-js/blas-ext-sum#main",
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
-    "@stdlib/math-base-special-pow": "^0.3.0",
-    "@stdlib/ndarray-base-assert-is-read-only": "^0.2.2",
-    "@stdlib/ndarray-data-buffer": "^0.2.2",
-    "@stdlib/ndarray-dtypes": "^0.3.0",
-    "@stdlib/random-array-discrete-uniform": "^0.2.1",
-    "@stdlib/utils-unzip": "^0.2.2",
-    "proxyquire": "^2.0.0",
-    "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
-    "istanbul": "^0.4.1",
-    "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
-  },
-  "engines": {
-    "node": ">=0.10.0",
-    "npm": ">2.7.0"
-  },
-  "os": [
-    "aix",
-    "darwin",
-    "freebsd",
-    "linux",
-    "macos",
-    "openbsd",
-    "sunos",
-    "win32",
-    "windows"
-  ],
   "keywords": [
     "stdlib",
     "stdtypes",
