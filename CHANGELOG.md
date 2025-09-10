@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-17)
+## Unreleased (2025-09-10)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`da9d08b`](https://github.com/stdlib-js/stdlib/commit/da9d08b99b9662e7421722b5c2af30f6bfb1bbf5) - **docs:** add missing require to TSDoc example code _(by Philipp Burckhardt)_
 -   [`f75732b`](https://github.com/stdlib-js/stdlib/commit/f75732ba5e3117ae0f9336722834307243eca2be) - **docs:** update example _(by Athan Reines)_
 -   [`fbc6b85`](https://github.com/stdlib-js/stdlib/commit/fbc6b852fae5eb77c36e04208c4aad574d146459) - **docs:** fix comments _(by Athan Reines)_
 -   [`5471fc4`](https://github.com/stdlib-js/stdlib/commit/5471fc4ca1505d407bc2f0cb13cea076c73341c5) - **docs:** fix descriptions _(by Athan Reines)_
@@ -46,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
