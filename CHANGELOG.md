@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-10)
+## Unreleased (2025-12-04)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`2ffc422`](https://github.com/stdlib-js/stdlib/commit/2ffc422e0a5e583d45776ea7efc359186379bb0c) - **docs:** fix TSDoc return annotation values and example code _(by Philipp Burckhardt)_
 -   [`da9d08b`](https://github.com/stdlib-js/stdlib/commit/da9d08b99b9662e7421722b5c2af30f6bfb1bbf5) - **docs:** add missing require to TSDoc example code _(by Philipp Burckhardt)_
 -   [`f75732b`](https://github.com/stdlib-js/stdlib/commit/f75732ba5e3117ae0f9336722834307243eca2be) - **docs:** update example _(by Athan Reines)_
 -   [`fbc6b85`](https://github.com/stdlib-js/stdlib/commit/fbc6b852fae5eb77c36e04208c4aad574d146459) - **docs:** fix comments _(by Athan Reines)_
