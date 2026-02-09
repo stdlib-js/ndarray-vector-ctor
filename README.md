@@ -52,13 +52,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-ctor@esm/index.mjs';
+import vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-ctor@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-ctor@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-ctor@v0.1.1-esm/index.mjs';
 ```
 
 #### vector( \[dtype]\[, options] )
@@ -274,7 +274,7 @@ import unzip from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-unzip@esm/index.m
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@esm/index.mjs';
 import sum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-sum@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-ctor@esm/index.mjs';
+import vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-ctor@v0.1.1-esm/index.mjs';
 
 // Create an array of random array lengths:
 var lens = discreteUniform( 10, 5, 15, {
