@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-23)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`14c965b`](https://github.com/stdlib-js/stdlib/commit/14c965b29381f98952ea871a0971c2d7d9072f5f) - **bench:** refactor to use string interpolation in `ndarray/vector/ctor` [(#11076)](https://github.com/stdlib-js/stdlib/pull/11076) _(by Partha Das)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Partha Das
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
