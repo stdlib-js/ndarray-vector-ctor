@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-10)
+## Unreleased (2026-04-30)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`6b16c0b`](https://github.com/stdlib-js/stdlib/commit/6b16c0bec485b03bf84f577434163d707e2120a9) - **docs:** update related packages sections [(#11853)](https://github.com/stdlib-js/stdlib/pull/11853) _(by stdlib-bot)_
 -   [`14c965b`](https://github.com/stdlib-js/stdlib/commit/14c965b29381f98952ea871a0971c2d7d9072f5f) - **bench:** refactor to use string interpolation in `ndarray/vector/ctor` [(#11076)](https://github.com/stdlib-js/stdlib/pull/11076) _(by Partha Das)_
 
 </details>
