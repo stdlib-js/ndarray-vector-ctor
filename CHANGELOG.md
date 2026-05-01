@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-30)
+## Unreleased (2026-05-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`dabdc73`](https://github.com/stdlib-js/stdlib/commit/dabdc73cf7df57d6840f5576b801755cb84497f0) - **docs:** update examples _(by Athan Reines)_
 -   [`6b16c0b`](https://github.com/stdlib-js/stdlib/commit/6b16c0bec485b03bf84f577434163d707e2120a9) - **docs:** update related packages sections [(#11853)](https://github.com/stdlib-js/stdlib/pull/11853) _(by stdlib-bot)_
 -   [`14c965b`](https://github.com/stdlib-js/stdlib/commit/14c965b29381f98952ea871a0971c2d7d9072f5f) - **bench:** refactor to use string interpolation in `ndarray/vector/ctor` [(#11076)](https://github.com/stdlib-js/stdlib/pull/11076) _(by Partha Das)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Partha Das
 
 </section>
