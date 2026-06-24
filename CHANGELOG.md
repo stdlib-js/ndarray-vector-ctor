@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-21)
+## Unreleased (2026-06-24)
 
 <section class="commits">
 
@@ -12,6 +12,10 @@
 
 <details>
 
+-   [`29b2bde`](https://github.com/stdlib-js/stdlib/commit/29b2bded9ac858b970a2866f20000ae39681e602) - **bench:** measure a subset of dtypes _(by Athan Reines)_
+-   [`f021c70`](https://github.com/stdlib-js/stdlib/commit/f021c7064415469b10f226ff7a9bd612786d8eff) - **docs:** update notes _(by Athan Reines)_
+-   [`7a4fa8e`](https://github.com/stdlib-js/stdlib/commit/7a4fa8e8e7031325ae3efdcd6f4d1f427bf1df6b) - **docs:** add notes _(by Athan Reines)_
+-   [`c148ba7`](https://github.com/stdlib-js/stdlib/commit/c148ba73d3d68a71a4b1dc5b358030459fe9388b) - **refactor:** use assertion utilities and add FIXME _(by Athan Reines)_
 -   [`dabdc73`](https://github.com/stdlib-js/stdlib/commit/dabdc73cf7df57d6840f5576b801755cb84497f0) - **docs:** update examples _(by Athan Reines)_
 -   [`6b16c0b`](https://github.com/stdlib-js/stdlib/commit/6b16c0bec485b03bf84f577434163d707e2120a9) - **docs:** update related packages sections [(#11853)](https://github.com/stdlib-js/stdlib/pull/11853) _(by stdlib-bot)_
 -   [`14c965b`](https://github.com/stdlib-js/stdlib/commit/14c965b29381f98952ea871a0971c2d7d9072f5f) - **bench:** refactor to use string interpolation in `ndarray/vector/ctor` [(#11076)](https://github.com/stdlib-js/stdlib/pull/11076) _(by Partha Das)_

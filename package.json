@@ -51,7 +51,9 @@
     "@stdlib/buffer-from-array": "^0.2.3",
     "@stdlib/buffer-from-arraybuffer": "^0.2.3",
     "@stdlib/buffer-from-buffer": "^0.2.3",
+    "@stdlib/ndarray-base-assert-is-binary-data-type": "github:stdlib-js/ndarray-base-assert-is-binary-data-type#main",
     "@stdlib/ndarray-base-assert-is-data-type": "^0.2.3",
+    "@stdlib/ndarray-base-assert-is-generic-data-type": "github:stdlib-js/ndarray-base-assert-is-generic-data-type#main",
     "@stdlib/ndarray-base-assert-is-index-mode": "^0.2.3",
     "@stdlib/ndarray-base-assert-is-order": "^0.2.3",
     "@stdlib/ndarray-base-buffer": "^0.3.1",
@@ -62,7 +64,7 @@
     "@stdlib/object-assign": "^0.2.3",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/symbol-iterator": "^0.2.3",
-    "@stdlib/types": "^0.4.3",
+    "@stdlib/types": "^0.5.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
