@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-01)
+## Unreleased (2026-07-05)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a12fce1`](https://github.com/stdlib-js/stdlib/commit/a12fce1cd6bd65c7aee8a2aee997200f71c83a62) - **docs:** update related packages sections [(#13276)](https://github.com/stdlib-js/stdlib/pull/13276) _(by stdlib-bot)_
 -   [`29b2bde`](https://github.com/stdlib-js/stdlib/commit/29b2bded9ac858b970a2866f20000ae39681e602) - **bench:** measure a subset of dtypes _(by Athan Reines)_
 -   [`f021c70`](https://github.com/stdlib-js/stdlib/commit/f021c7064415469b10f226ff7a9bd612786d8eff) - **docs:** update notes _(by Athan Reines)_
 -   [`7a4fa8e`](https://github.com/stdlib-js/stdlib/commit/7a4fa8e8e7031325ae3efdcd6f4d1f427bf1df6b) - **docs:** add notes _(by Athan Reines)_

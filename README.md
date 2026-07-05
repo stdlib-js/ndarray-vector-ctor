@@ -329,8 +329,17 @@ logEachMap( 'len: %2d. dtype: %7s. sum: %d.', args[ 0 ], args[ 1 ], clbk );
 
 -   <span class="package-name">[`@stdlib/ndarray-vector/float64`][@stdlib/ndarray/vector/float64]</span><span class="delimiter">: </span><span class="description">create a double-precision floating-point vector (i.e., a one-dimensional ndarray).</span>
 -   <span class="package-name">[`@stdlib/ndarray-vector/float32`][@stdlib/ndarray/vector/float32]</span><span class="delimiter">: </span><span class="description">create a single-precision floating-point vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="package-name">[`@stdlib/ndarray-vector/int16`][@stdlib/ndarray/vector/int16]</span><span class="delimiter">: </span><span class="description">create a signed 16-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="package-name">[`@stdlib/ndarray-vector/int32`][@stdlib/ndarray/vector/int32]</span><span class="delimiter">: </span><span class="description">create a signed 32-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="package-name">[`@stdlib/ndarray-vector/int8`][@stdlib/ndarray/vector/int8]</span><span class="delimiter">: </span><span class="description">create a signed 8-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="package-name">[`@stdlib/ndarray-vector/uint16`][@stdlib/ndarray/vector/uint16]</span><span class="delimiter">: </span><span class="description">create an unsigned 16-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="package-name">[`@stdlib/ndarray-vector/uint32`][@stdlib/ndarray/vector/uint32]</span><span class="delimiter">: </span><span class="description">create an unsigned 32-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="package-name">[`@stdlib/ndarray-vector/uint8`][@stdlib/ndarray/vector/uint8]</span><span class="delimiter">: </span><span class="description">create an unsigned 8-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="package-name">[`@stdlib/ndarray-vector/uint8c`][@stdlib/ndarray/vector/uint8c]</span><span class="delimiter">: </span><span class="description">create a clamped unsigned 8-bit integer vector (i.e., a one-dimensional ndarray).</span>
 -   <span class="package-name">[`@stdlib/ndarray-vector/complex128`][@stdlib/ndarray/vector/complex128]</span><span class="delimiter">: </span><span class="description">create a double-precision complex floating-point vector (i.e., a one-dimensional ndarray).</span>
 -   <span class="package-name">[`@stdlib/ndarray-vector/complex64`][@stdlib/ndarray/vector/complex64]</span><span class="delimiter">: </span><span class="description">create a single-precision complex floating-point vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="package-name">[`@stdlib/ndarray-vector/bool`][@stdlib/ndarray/vector/bool]</span><span class="delimiter">: </span><span class="description">create a boolean vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="package-name">[`@stdlib/ndarray-matrix/ctor`][@stdlib/ndarray/matrix/ctor]</span><span class="delimiter">: </span><span class="description">create a matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="package-name">[`@stdlib/ndarray-ctor`][@stdlib/ndarray/ctor]</span><span class="delimiter">: </span><span class="description">multidimensional array constructor.</span>
 
 </section>
@@ -421,9 +430,27 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/ndarray/vector/float32]: https://github.com/stdlib-js/ndarray-vector-float32
 
+[@stdlib/ndarray/vector/int16]: https://github.com/stdlib-js/ndarray-vector-int16
+
+[@stdlib/ndarray/vector/int32]: https://github.com/stdlib-js/ndarray-vector-int32
+
+[@stdlib/ndarray/vector/int8]: https://github.com/stdlib-js/ndarray-vector-int8
+
+[@stdlib/ndarray/vector/uint16]: https://github.com/stdlib-js/ndarray-vector-uint16
+
+[@stdlib/ndarray/vector/uint32]: https://github.com/stdlib-js/ndarray-vector-uint32
+
+[@stdlib/ndarray/vector/uint8]: https://github.com/stdlib-js/ndarray-vector-uint8
+
+[@stdlib/ndarray/vector/uint8c]: https://github.com/stdlib-js/ndarray-vector-uint8c
+
 [@stdlib/ndarray/vector/complex128]: https://github.com/stdlib-js/ndarray-vector-complex128
 
 [@stdlib/ndarray/vector/complex64]: https://github.com/stdlib-js/ndarray-vector-complex64
+
+[@stdlib/ndarray/vector/bool]: https://github.com/stdlib-js/ndarray-vector-bool
+
+[@stdlib/ndarray/matrix/ctor]: https://github.com/stdlib-js/ndarray-matrix-ctor
 
 <!-- </related-links> -->
 
