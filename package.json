@@ -84,7 +84,7 @@
     "@stdlib/assert-is-same-float32array": "^0.2.3",
     "@stdlib/assert-is-same-float64array": "^0.2.3",
     "@stdlib/blas-ext-sum": "^0.1.1",
-    "@stdlib/console-log-each-map": "^0.1.1",
+    "@stdlib/console-log-each-map": "^0.1.2",
     "@stdlib/math-base-special-pow": "^0.3.1",
     "@stdlib/ndarray-base-assert-is-read-only": "^0.2.3",
     "@stdlib/ndarray-data-buffer": "^0.2.3",
