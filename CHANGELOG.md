@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-31)
+## Unreleased (2026-11-12)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`a5ddb0f`](https://github.com/stdlib-js/stdlib/commit/a5ddb0f1f03b1d4f071106e42e32ed1bdb879e9e) - **bench:** fix descriptions _(by Athan Reines)_
+-   [`69bd527`](https://github.com/stdlib-js/stdlib/commit/69bd5273f5c84a6a383262289bb30c63038f7b4d) - **docs:** add missing option _(by Athan Reines)_
 -   [`af38320`](https://github.com/stdlib-js/stdlib/commit/af38320f6f68ac48ee6232ef5cdc71382c582605) - **refactor:** use external utility _(by Athan Reines)_
 -   [`a12fce1`](https://github.com/stdlib-js/stdlib/commit/a12fce1cd6bd65c7aee8a2aee997200f71c83a62) - **docs:** update related packages sections [(#13276)](https://github.com/stdlib-js/stdlib/pull/13276) _(by stdlib-bot)_
 -   [`29b2bde`](https://github.com/stdlib-js/stdlib/commit/29b2bded9ac858b970a2866f20000ae39681e602) - **bench:** measure a subset of dtypes _(by Athan Reines)_
